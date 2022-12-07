@@ -4,3 +4,9 @@ https://www.pepcoding.com/most-important-interview-questions-list-for-product-ba
 
 william
 https://github.com/wisdompeak/LeetCode
+leetcode lists
+https://leetcode.com/discuss/interview-question/2069641/the-only-lists-you-need-for-your-interview-preparation
+neetcode 150
+lintcode io
+patterns mainly patterns are useful rest is easier to do 
+https://leadcoding.in/dsa-sheet/
